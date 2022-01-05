@@ -1,2 +1,3 @@
 # Script-Inspect-Element-On-MobilePhone
-Aku Harap Kamu Bisa Melakukannya
+
+I Hope You Can Do It :')
